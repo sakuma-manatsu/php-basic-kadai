@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+ <html lang="ja">
+ 
+ <head>
+     <meta charset="UTF-8">
+     <title>kadai_005</title>
+ </head>
+ 
+ <body>
+   <p>
 <?php
   $score1 =  80;
   $score2 =  60;
@@ -14,3 +24,6 @@
   $average =  $total/10;
   echo $average;
   ?>
+   </p>
+  </body>
+  </html>
