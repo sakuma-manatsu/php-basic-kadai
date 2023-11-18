@@ -1,17 +1,17 @@
 <!DOCTYPE html>
- <html lang="ja">
+<html lang="ja">
  
- <head>
+<head>
      <meta charset="UTF-8">
      <title>kadai_007</title>
- </head>
+</head>
 
- <body>
+<body>
     <p>
         <?php
         $merchandise_data =  ['name' => 'onion','price' => 200,'weight' => 160];
         print_r($merchandise_data);
         ?>
     </p>
- </body>
- </html>
+</body>
+</html>
